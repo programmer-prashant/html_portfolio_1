@@ -1,0 +1,19 @@
+{
+  "name": "html_portfolio_1",
+  "version": "1.0.0",
+  "description": "Portfoloi using html,css,bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmer-prashant/prashant__portfolio.github.io.git"
+  },
+  "author": "Prashant Raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programmer-prashant/prashant__portfolio.github.io/issues"
+  },
+  "homepage": "https://github.com/programmer-prashant/prashant__portfolio.github.io#readme"
+}
